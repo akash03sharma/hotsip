@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+  }
+  .search-bar {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+    
+    
+  }
+  .borderclass
+  {
+    width: 40%;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 20px;
+  }

@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+   
+  }
+  .search-bar {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+    
+    
+  }
+  .borderclass
+  {
+    width: 40%;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 20px;
+  }
+  .old-price {
+    text-decoration: line-through;
+    color: #a9a9a9;
+  }
+  .new-price {
+    color: #e74c3c;
+    font-weight: bold;
+  }
+  .borderclassss
+  {
+    width: 80%;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 20px;
+  }
+  .container {
+    max-width: 100%; 
+    overflow: hidden;
+}
